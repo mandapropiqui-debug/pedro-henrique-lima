@@ -1,6 +1,6 @@
 (function(){
 'use strict';
-var WA_NUM='';/* PENDENTE: numero do Pedro com DDI, ex. 5586999999999 */
+var WA_NUM='5511985053179';
 var reduce=matchMedia('(prefers-reduced-motion:reduce)').matches;
 function $(s,r){return (r||document).querySelector(s)}
 function $$(s,r){return Array.prototype.slice.call((r||document).querySelectorAll(s))}
